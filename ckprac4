@@ -1,0 +1,13 @@
+# check prac4
+date
+hostname
+ip address
+whoami
+last
+tail /etc/passwd
+uname -a
+lsb_release -a
+dmesg
+dpkg -l
+ufw status verbose
+cat /var/log/tiger/security.report.*
